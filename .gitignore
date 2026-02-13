@@ -1,0 +1,10 @@
+src/main/resources/config.properties
+config.properties
+
+build/
+classes/
+bin/
+*.class
+
+.DS_Store
+Thumbs.db

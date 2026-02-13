@@ -1,0 +1,3 @@
+mailtrap.username=
+mailtrap.password=
+crypto.aeskey=ChaveAleatoria12 # Mudar. Usar 16 caracteres.
